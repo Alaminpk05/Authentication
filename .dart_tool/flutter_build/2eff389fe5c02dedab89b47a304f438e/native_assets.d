@@ -1,0 +1,1 @@
+ E:\\BlocProject\\2024\\authentication\\.dart_tool\\flutter_build\\2eff389fe5c02dedab89b47a304f438e\\native_assets.yaml: 
